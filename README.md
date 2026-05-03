@@ -47,5 +47,9 @@ Amenity Impact: Proved a statistically significant price difference for listings
 ## How to Run
 Clone the Repo and ensure the .csv files are in the root directory.
 Install Dependencies:Bashpip install pandas seaborn matplotlib numpy
-Execute the Analysis:Bashpython airbnb_data_analysis.py
+
+## Execute the Analysis:
+Bash  
+python airbnb_data_analysis.py
+
 This will generate a comprehensive report image: seattle_airbnb_trends.png.
