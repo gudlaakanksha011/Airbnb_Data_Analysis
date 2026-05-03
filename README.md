@@ -9,8 +9,8 @@ The primary goal of this project is to decode the complex pricing dynamics of th
 Host Optimization: Identified the specific amenities (e.g., Wi-Fi, Free Parking) and neighborhood factors that justify premium pricing.  
 Traveler Intelligence: Uncovered the most cost-effective booking windows and high-value neighborhoods to maximize "bang for the buck".  
 
-## Technical Stack & SkillsLanguages: 
-Python (Pandas, NumPy), SQL (SQLite3).  
+## Technical Stack & Skills
+Languages: Python (Pandas, NumPy), SQL (SQLite3).  
 
 #Data Engineering: 
 Data cleaning, handling currency formatting, and date-time normalization.  
