@@ -32,9 +32,9 @@ reviews.csv: Quantitative and qualitative guest feedback data.
 
 ## Project Architecture
 
-Component	               Implementation
+Component	Implementation
 
-Logic & Analysis	       airbnb_data_analysis.py contains the full ETL and analysis pipeline.
+Logic & Analysis
 
 airbnb_data_analysis.py contains the full ETL and analysis pipeline.  
 
