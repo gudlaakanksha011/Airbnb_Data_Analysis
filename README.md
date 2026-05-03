@@ -31,10 +31,10 @@ calendar.csv: Time-series data tracking availability and price fluctuations over
 reviews.csv: Quantitative and qualitative guest feedback data.  
 
 ## Project Architecture
-ComponentImplementationLogic & Analysisairbnb_data_analysis.py contains the full ETL and analysis pipeline.  
 
-## Business Requirements
-Capstone Project – Airbnb Data Analysis.docx outlines the problem statement and research questions.  
+Component	Implementation
+Logic & Analysis	
+airbnb_data_analysis.py contains the full ETL and analysis pipeline.  
 
 ## Data Processing 
 Automated cleaning of price strings and null-value imputation for accurate modeling.  
