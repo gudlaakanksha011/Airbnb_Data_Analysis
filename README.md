@@ -40,9 +40,14 @@ Capstone Project – Airbnb Data Analysis.docx outlines the problem statement an
 Automated cleaning of price strings and null-value imputation for accurate modeling.  
 
 ## Key Business Insights Uncovered
+
 Seasonal ROI: Mapped monthly price volatility, identifying peak demand periods where hosts can implement surge pricing.  
+
 Geographic Alpha: Quantified the "Neighborhood Effect" by ranking the top 10 most expensive areas in Seattle.  
-Amenity Impact: Proved a statistically significant price difference for listings offering Free Parking and Wi-Fi, validating property investment strategies.  Quality Benchmarking: Analyzed the correlation between Superhost status and review ratings to determine the impact of service quality on brand reputation.  
+
+Amenity Impact: Proved a statistically significant price difference for listings offering Free Parking and Wi-Fi, validating property investment strategies.
+
+Quality Benchmarking: Analyzed the correlation between Superhost status and review ratings to determine the impact of service quality on brand reputation.  
 
 ## How to Run
 Clone the Repo and ensure the .csv files are in the root directory.
